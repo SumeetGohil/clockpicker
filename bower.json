@@ -22,10 +22,10 @@
       "homepage": "http://wangshenwei.com/"
     }
   ],
-  "homepage": "http://weareoutman.github.io/clockpicker/",
+  "homepage": "http://github.com/SumeetGohil/clockpicker/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/weareoutman/clockpicker.git"
+    "url": "git://github.com/sumeetgohil/clockpicker.git"
   },
   "dependencies": {
     "jquery" : ">=1.7"
