@@ -93,7 +93,7 @@
 			hoursView = popover.find('.clockpicker-hours'),
 			minutesView = popover.find('.clockpicker-minutes'),
 			amPmBlock = popover.find('.clockpicker-am-pm-block'),
-			isInput = element.prop('tagName') === 'INPUT',
+			isInput = true,//element.prop('tagName') === 'INPUT',
 			input = isInput ? element : element.find('input'),
 			addon = element.find('.input-group-addon'),
 			self = this,
